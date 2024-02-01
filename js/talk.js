@@ -14,7 +14,7 @@ new TypeIt("#XJHLCH", {
 
 new TypeIt('#talkToLCH', {
     lifeLike: true,
-    cursorSpeed: 2000,
+    cursorSpeed: 3000,
     waitUntilVisible: true,
     speed: 100
 }).go();
