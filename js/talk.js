@@ -16,5 +16,5 @@ new TypeIt('#talkToLCH', {
     lifeLike: true,
     cursorSpeed: 3000,
     waitUntilVisible: true,
-    speed: 100
+    speed: 200
 }).go();
